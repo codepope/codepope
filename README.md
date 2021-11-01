@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- :office: Looking for work in something fun
+- :office: Working at Studio 3T making words and code...
 
 - 🔭 I’m currently working on ...
-  various projects
+  blogs, apps and lots of weekend making.
 
 - 🌱 I’m currently learning ...
   Swift, Deno/Typescript, always Go, always something else :)
